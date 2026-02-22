@@ -1,0 +1,5 @@
+{
+  "name": "Placement Prep Pro",
+  "description": "A personalized AI-powered platform to help students prepare for placements with customized roadmaps, mock interviews, and daily challenges.",
+  "requestFramePermissions": ["microphone"]
+}
